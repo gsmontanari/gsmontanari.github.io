@@ -4,13 +4,14 @@
 
 @charset "utf-8";
 
-.greedy-nav .visible-links {
-    justify-content: center;
-}
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
 
 #page-title {
     text-align: center;
+}
+
+.greedy-nav .visible-links {
+    justify-content: center;
 }
