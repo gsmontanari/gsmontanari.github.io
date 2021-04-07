@@ -5,4 +5,4 @@ excerpt: "Home"
 author_profile: false
 ---
 
-Giovanni Montanari
+<div class="home-title"> <h1>Giovanni Montanari</h1> </div> 
