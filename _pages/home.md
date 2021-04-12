@@ -15,5 +15,5 @@ You can find my CV in the Vitæ section, while the projects I'm working on are l
 #### Contact information
 ---
 **M** New York University | 19 West 4th 6th floor, New York, NY 10012 USA  
-**E** giovanni.montanari [at] nyu [dot] com  
+**E** giovanni.montanari [at] nyu [dot] edu  
 **GH** @gsmontanari  

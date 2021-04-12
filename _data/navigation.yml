@@ -2,6 +2,8 @@
 main:
    - title: "Home"
      url: /
+   - title: "Vitæ"
+     url: /vitae/
    - title: "Research"
      url: /research/
    - title: "Teaching"
