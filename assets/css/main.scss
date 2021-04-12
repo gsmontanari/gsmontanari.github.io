@@ -8,22 +8,39 @@
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
 
-#page-title {
-    text-align: center;
-}
 
 .greedy-nav .visible-links {
     justify-content: center;
 }
 
-
-.home-title { 
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    flex-direction: column; 
-    width: 100%; 
-    text-align: center; 
-    margin: 10% 0; 
-    align-items: center; 
+html {
+    font-size: $type-size-5;
+    font-weight: 400;
+    font-family: $sans-serif;
 }
+
+$serif              : "Cormorant Garamond", "Baskervville", serif;
+$sans-serif  : "Lato", "Helvetica Neue", -apple-system, BlinkMacSystemFont, "Roboto", "Segoe UI", "Lucida Grande", Arial, sans-serif;
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: $serif;
+}
+
+h1 {
+    font-size: 1.4*$type-size-1;
+    font-weight: 600;
+}
+
+h3 {
+    font-size: $type-size-2;
+    font-weight: 500;
+    margin-top: 0px;
+}
+
+h4 {
+    font-size: $type-size-3;
+    font-weight: 600;
+    margin-top: 0px;
+}
+
+$global-font-family : $serif;
