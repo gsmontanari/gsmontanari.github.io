@@ -17,7 +17,7 @@ Teaching Assistant for T. Roeper (2020)
 
 #### Econometrics
 ---
-- NYU ECON-GA 1101: Applied Statistics and Econometrics (MA)
+- NYU ECON-GA 1101: Applied Statistics and Econometrics (MA)  
 Teaching Assistant for S. Erden (2021)
 - NYU ECON-UA 266: Introduction to Econometrics  
 Teaching Assistant for T. Christensen (2020)  
