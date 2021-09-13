@@ -14,6 +14,10 @@
 remote_theme: "mmistakes/minimal-mistakes@4.22.0"
 minimal_mistakes_skin    : "contrast" # "air", "aqua", "default", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
+# Deployment settings
+deploy:
+  github_token: $GH_PAGES_TOKEN 
+
 # Site Settings
 locale                   : "en-US"
 title                    : "Giovanni Montanari"
