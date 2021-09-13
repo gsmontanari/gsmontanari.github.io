@@ -14,7 +14,7 @@ Research interests: _Industrial Organization, Behavioral Economics, Economics of
 July 2021 | _Draft coming soon_
 - "Audi Alteram Partem: an Experiment on Selective Exposure to Information"  
 (with Salvatore Nunnari)  
-November 2019 | Paper | Slides
+November 2019 | [Paper](../assets/papers/selectexposure_june19.pdf) | [Slides](../assets/papers/selectiveexposure_slides_sept20.pdf)
 
 #### Works in Progress
 ---
