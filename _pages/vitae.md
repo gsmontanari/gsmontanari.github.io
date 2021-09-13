@@ -17,4 +17,4 @@ My economics-unrelated interests include photography, art history, classical lit
 
 ### CV
 ---
-You can find a copy of my CV here.
+You can find a copy of my CV [here](../assets/cv/Curriculum_Vitae_Montanari.pdf).
