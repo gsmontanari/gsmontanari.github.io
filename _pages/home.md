@@ -7,7 +7,7 @@ author_profile: false
 ---
 ### Ph.D. student at New York University
 ---
-Currently a third year Ph.D. student in Economics at NYU.
+Currently a fourth year Ph.D. student in Economics at NYU.
 My research lies in applied microeconomics, focusing in particular on what use people make of information and attention when these resources are scarce or otherwise limited.
 
 You can find my CV in the Vitæ section, while the projects I'm working on are listed in the Research section. The list of classes I've taught or have been a Teaching Assistant for are listed in the Teaching section.
