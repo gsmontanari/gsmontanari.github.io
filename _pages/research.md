@@ -10,7 +10,7 @@ Research interests: _Industrial Organization, Behavioral Economics, Economics of
 #### Working Papers
 ---
 - "An Economic View of Corporate Social Impact"  
-(with Hunt Allcott and Brandon Tan)  
+(with Hunt Allcott, Bora Ozaltun and Brandon Tan)  
 July 2021 | _Draft available on request_
 - "Audi Alteram Partem: an Experiment on Selective Exposure to Information"  
 (with Salvatore Nunnari)  
