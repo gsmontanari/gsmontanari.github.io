@@ -5,13 +5,15 @@ permalink: /research/
 author_profile: true
 ---
 
-Research interests: _Industrial Organization, Behavioral Economics, Economics of attention, Econometrics_.
+Research interests: _Industrial Organization, Behavioral Economics, Economics of attention, Experimental Economics._
 
 #### Working Papers
+
 ---
+
 - "An Economic View of Corporate Social Impact"  
 (with Hunt Allcott, Bora Ozaltun and Brandon Tan)  
-July 2021 | _Draft available on request_  
+January 2022 | _Draft available on request_  
 
     <details>
 	  		<summary style="margin-top: -1.3em; ">Abstract</summary>
@@ -32,9 +34,10 @@ November 2019 | [Paper](../assets/papers/selectexposure_june19.pdf) | [Slides](.
             </p>
 	</details>
 
-
 #### Works in Progress
+
 ---
-- "Inertia, Switching Costs and Learning in Dynamic Insurance Choice"
-June 2021
+
+- "Inertia, Switching Costs and Learning in Dynamic Insurance Choice"  
+December 2021 | _Slides coming soon_
 
