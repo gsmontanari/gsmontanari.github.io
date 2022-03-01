@@ -13,12 +13,14 @@ Research interests: _Industrial Organization, Behavioral Economics, Economics of
 
 - "An Economic View of Corporate Social Impact"  
 (with Hunt Allcott, Bora Ozaltun and Brandon Tan)  
-January 2022 | _Draft available on request_  
+February 2022 | [Paper](../assets/papers/CorporateSocialImpact.pdf) | [Replication] (../assets/replications/CSI_Replication.zip)
 
     <details>
 	  		<summary style="margin-top: -1.3em; ">Abstract</summary>
 	  		<p class="notice" style="margin-top:0 !important">
-              The growing discussions of impact investing and stakeholder capitalism have increased interest in measuring companies' social impact, not just their profits. We conceptualize corporate social impact as the social welfare loss that would be caused by a firm's exit in equilibrium. We then quantify the social impacts of 73 large firms in 12 industries. We field a new survey measuring people's willingness to substitute away from the firms they buy from and work for. We use the survey data to estimate product market and labor market models and simulate counterfactual equilibria after a firm's exit. A key result is that consumer surplus is the most important component of firms' social impact, dwarfing profits (because they overwhelmingly accrue to wealthy people with low social marginal welfare weights), worker surplus, and externalities. Existing impact rating systems have little correlation with our economics-based metric.
+              The growing discussions of impact investing and stakeholder capitalism have increased interest
+              in measuring companies' social impact. We conceptualize corporate social impact as the
+              welfare loss that would be caused by a firm's exit. To illustrate, we quantify the social impacts of 75 firms in 12 industries using a new survey measuring consumer and worker substitution patterns combined with models of product and labor markets. We find that consumer surplus is the primary component of social impact (dwarfing profits, worker surplus, and externalities, suggesting that impact investors should focus more on firms selling differentiated and popular products to low-income consumers.
             </p>
 	</details>
 
