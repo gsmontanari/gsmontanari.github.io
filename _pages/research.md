@@ -41,5 +41,5 @@ November 2019 | [Paper](../assets/papers/selectexposure_june19.pdf) | [Slides](.
 ---
 
 - "Inertia, Switching Costs and Learning in Dynamic Insurance Choice"  
-December 2021 | _Slides coming soon_
+September 2022
 

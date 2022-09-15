@@ -23,7 +23,7 @@ author_profile: true
   _Responsible for teaching theoretical concepts in probability and statistics, as well as introducing students to R for applications in probability and statistics, as well as data analysis. Contributed with own examples and exercises._
   
 - NYU ECON-UA 18: Statistics  
-  - Teaching Assistant for T. Roeper (2020)  
+  - Teaching Assistant for T. Roeper (2020, 2022)  
   _Responsible for teaching theoretical concepts in probability and statistics, as well as introducing students to R for applications in probability and statistics, as well as data analysis. Contributed with own examples and exercises._
 
 #### Econometrics
