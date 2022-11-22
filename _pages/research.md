@@ -13,7 +13,8 @@ Research interests: _Industrial Organization, Behavioral Economics, Economics of
 
 - "An Economic View of Corporate Social Impact"  
 (with Hunt Allcott, Bora Ozaltun and Brandon Tan)  
-February 2022 | [Paper](../assets/papers/CorporateSocialImpact.pdf) | [Replication](../assets/replications/CSI_Replication.zip)
+_Revise and Resubmit at Journal of Finance_
+March 2022 | [Paper](../assets/papers/CorporateSocialImpact.pdf) | [Replication](../assets/replications/CSI_Replication.zip)
 
     <details>
 	  		<summary style="margin-top: -1.3em; ">Abstract</summary>
