@@ -41,6 +41,6 @@ November 2019 | [Paper](../assets/papers/selectexposure_june19.pdf) | [Slides](.
 
 ---
 
-- "Inertia, Switching Costs and Learning in Dynamic Insurance Choice"  
-September 2022
+- "Endogenous Inertia in Complex Choices"  
+November 2022
 
