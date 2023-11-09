@@ -11,9 +11,9 @@ Research interests: _Industrial Organization, Behavioral Economics, Economics of
 
 ---
 
-- "Endogenous Inertia in Complex Choices"  
-_Draft available upon request_  
-November 2023 
+- "Endogenous Inertia in Complex Choices"    
+_Draft available upon request_    
+November 2023   
  
     <details>
 	  		<summary style="margin-top: -1.3em; ">Abstract</summary>
@@ -22,10 +22,10 @@ November 2023
             </p>
 	</details>
 
-- "An Economic View of Corporate Social Impact"  
+- "An Economic View of Corporate Social Impact"    
 (with Hunt Allcott, Bora Ozaltun and Brandon Tan)    
-[NBER Working Paper 31803](https://www.nber.org/papers/w31803)
-_Revise and Resubmit at Journal of Finance_  
+[NBER Working Paper 31803](https://www.nber.org/papers/w31803)  
+_Revise and Resubmit at Journal of Finance_    
 October 2023 | [Paper](../assets/papers/CorporateSocialImpact.pdf) | [Replication](../assets/replications/CSI_Replication.zip)
 
     <details>
@@ -37,7 +37,7 @@ October 2023 | [Paper](../assets/papers/CorporateSocialImpact.pdf) | [Replicatio
 
 - "Audi Alteram Partem: an Experiment on Selective Exposure to Information"  
 (with Salvatore Nunnari)  
-[CESifo Working Paper 10699](https://www.cesifo.org/en/publications/2023/working-paper/audi-alteram-partem-experiment-selective-exposure-information)
+[CESifo Working Paper 10699](https://www.cesifo.org/en/publications/2023/working-paper/audi-alteram-partem-experiment-selective-exposure-information)    
 August 2023 | [Paper](../assets/papers/mn_selectexposure.pdf) | [Slides](../assets/papers/selectiveexposure_slides_sept20.pdf)  
     
     <details>
