@@ -6,11 +6,12 @@ title: "Giovanni Montanari"
 author_profile: false
 ---
 
-### Ph.D. student at New York University
+### Ph.D. candidate at New York University
 
 ---
-Currently a fifth year Ph.D. student in Economics at NYU.
-My research lies in applied microeconomics, focusing in particular on what use people make of information and attention when these resources are scarce or otherwise limited.
+I am a Ph.D. candidate in Economics at NYU. In January 2024 I will join Cornerstone Research as an Associate Ph.D. Economist.  
+
+I am an applied economist that uses techniques from empirical industrial organization and applied microeconomics to investigate policy-relevant questions. I am interested in  what use people make of information and attention when these resources are scarce or otherwise limited, and my research examines consumers' choices across different industries.
 
 You can find my CV in the Vitæ section, while the projects I'm working on are listed in the Research section. The list of classes I've taught or have been a Teaching Assistant for are listed in the Teaching section.
 
