@@ -5,15 +5,14 @@ permalink: /research/
 author_profile: true
 ---
 
-Research interests: _Industrial Organization, Behavioral Economics, Economics of attention, Experimental Economics._
+Research interests: _Industrial Organization, Public Economics, Economics of attention._
 
 #### Working Papers
 
 ---
 
 - "Endogenous Inertia in Complex Choices"    
-_Draft available upon request_    
-November 2023   
+November 2023 | [Paper](../assets/papers/EndogenousInertiaDynamicChoice.pdf)    
  
     <details>
 	  		<summary style="margin-top: -1.3em; ">Abstract</summary>
