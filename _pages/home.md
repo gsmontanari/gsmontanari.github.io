@@ -6,7 +6,7 @@ title: "Giovanni Montanari"
 author_profile: false
 ---
 
-### Ph.D. candidate at New York University
+### Ph.D. at New York University
 
 ---
 I am a Ph.D. candidate in Economics at NYU. In January 2024 I will join Cornerstone Research as an Associate Ph.D. Economist.  
