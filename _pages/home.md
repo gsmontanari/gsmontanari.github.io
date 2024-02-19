@@ -6,10 +6,10 @@ title: "Giovanni Montanari"
 author_profile: false
 ---
 
-### Ph.D. at New York University
+### Associate at Cornerstone Research
 
 ---
-I am a Ph.D. candidate in Economics at NYU. In January 2024 I will join Cornerstone Research as an Associate Ph.D. Economist.  
+I am an Associate Ph.D. Economist at Cornerstone Research New York office. I hold a Ph.D. in Economics from New York University.  
 
 I am an applied economist that uses techniques from empirical industrial organization and applied microeconomics to investigate policy-relevant questions. I am interested in  what use people make of information and attention when these resources are scarce or otherwise limited, and my research examines consumers' choices across different industries.
 
