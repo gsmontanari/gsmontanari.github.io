@@ -12,7 +12,8 @@ You can find a copy of my CV [here](../assets/cv/Curriculum_Vitae_Montanari.pdf)
 
 ### Bio
 ---
-I am currently based in New York City (USA), pursuing a Ph.D. in Economics at New York University. I have decided not to stay in academia and will join Cornerstone Research in January 2024 as an Associate Ph.D. Economist. Previously, I've obtained a M.Sc. in Economic and Social Sciences from Università Bocconi in Milan (Italy) and a B.Sc. in Economics and Business from Università Ca' Foscari in Venice (Italy).  
+I am currently based in New York City (USA), working as an Associate Ph.D. Economist at Cornerstone Research. I hold a Ph.D. and M.Phil. in Economics from New York University. Previously, I've obtained a M.Sc. in Economic and Social Sciences from Università Bocconi in Milan (Italy) and a B.Sc. in Economics and Business from Università Ca' Foscari in Venice (Italy).  
+
 
 During my Ph.D., I was lucky enough to interact with and learn from several superb economists and researchers. I am especially grateful for the advising and collaborations with Professors H. Allcott, A. Caplin, A. Galichon, and D. Waldinger. I have had the opportunity to live most of the Ph.D. years in New York and Princeton, with a summer stint in Seattle for an internship at Amazon.
 
