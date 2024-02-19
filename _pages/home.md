@@ -11,14 +11,14 @@ author_profile: false
 ---
 I am an Associate Ph.D. Economist at Cornerstone Research New York office. I hold a Ph.D. in Economics from New York University.  
 
-I am an applied economist that uses techniques from empirical industrial organization and applied microeconomics to investigate policy-relevant questions. I am interested in  what use people make of information and attention when these resources are scarce or otherwise limited, and my research examines consumers' choices across different industries.
+I am an applied economist that leverages techniques from empirical industrial organization and applied microeconomics to answer challenging questions.  
 
-You can find my CV in the Vitæ section, while the projects I'm working on are listed in the Research section. The list of classes I've taught or have been a Teaching Assistant for are listed in the Teaching section.
+You can find my CV in the Vitæ section. This website also contains a list of projects I've worked on during my Ph.D. (Research section) and a list of classes I've taught or have been a Teaching Assistant for (Teaching section).  
 
 #### Contact information
 
 ---
-**M** New York University | 19 West 4th 6th floor, New York, NY 10012 USA  
-**E** giovanni.montanari [at] nyu [dot] edu  
-**GH** [@gsmontanari](https://github.com/gsmontanari)  
-**LI** [@giovannimontanari](https://www.linkedin.com/in/giovannimontanari/)
+**Mail** Cornerstone Research, New York Office | 599 Lexington Avenue 40th floor, New York, NY 10022 USA   
+**Email** giovanni.montanari [at] cornerstone [dot] com  
+**GitHub** [@gsmontanari](https://github.com/gsmontanari)  
+**LinkedIn** [@giovannimontanari](https://www.linkedin.com/in/giovannimontanari/)
