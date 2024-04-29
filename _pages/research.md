@@ -36,7 +36,8 @@ October 2023 | [Paper](../assets/papers/CorporateSocialImpact.pdf) | [Replicatio
 
 - "Audi Alteram Partem: an Experiment on Selective Exposure to Information"  
 (with Salvatore Nunnari)  
-[CESifo Working Paper 10699](https://www.cesifo.org/en/publications/2023/working-paper/audi-alteram-partem-experiment-selective-exposure-information)    
+[CESifo Working Paper 10699](https://www.cesifo.org/en/publications/2023/working-paper/audi-alteram-partem-experiment-selective-exposure-information)  
+Revise and Resubmite at _Journal of the Economic Science Association_      
 August 2023 | [Paper](../assets/papers/mn_selectexposure.pdf) | [Slides](../assets/papers/selectiveexposure_slides_sept20.pdf)  
     
     <details>
